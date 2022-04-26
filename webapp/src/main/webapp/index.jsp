@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for DevOps Learning</h1>
+    <h1>New user Register for Tanti Technologies iDevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Thankyou, Tanti Technologies Bangalore Happy Learning </h1>
+   <h1> Thankyou, Happy Learning </h1>
 
   
 </form>
