@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>New user Register for Tanti Technologies BTM Bangalore KARNATAKA 560068 DevOps Learning</h1>
+    <h1>New user Register for Tanti Technologies BTM Bangalore KARNATAKA 560068 AWS GIT DevOps Learning</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
